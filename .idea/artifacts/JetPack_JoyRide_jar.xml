@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JetPack-JoyRide:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JetPack_JoyRide_jar</output-path>
+    <root id="archive" name="JetPack-JoyRide.jar">
+      <element id="module-output" name="JetPack-JoyRide" />
+    </root>
+  </artifact>
+</component>
